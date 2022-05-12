@@ -1,6 +1,3 @@
-package tictactoe
-
-import kotlin.math.abs
 fun main() {
     var str = "         ".toCharArray()
     var s1 = str  
