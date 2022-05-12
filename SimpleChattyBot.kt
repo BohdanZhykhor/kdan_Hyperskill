@@ -1,7 +1,4 @@
-package bot
-
 import java.util.Scanner
-
 
 val scanner = Scanner(System.`in`) // Do not change this line
 
